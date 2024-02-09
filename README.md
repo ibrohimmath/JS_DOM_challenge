@@ -1,1 +1,1 @@
-# JS_DOM_challenge
+# JS DOM challenge
